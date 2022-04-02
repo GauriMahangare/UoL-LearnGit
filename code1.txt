@@ -1,2 +1,9 @@
+<<<<<<< HEAD
 This is code 1 edit for branch1.
 This is code 1 edit for feature barnch 4
+=======
+This is code 1 edit for feature branch 1.
+This is code 1 edit for feature branch 4
+
+This is code 1 edit for feature brach 3.
+>>>>>>> feature3
